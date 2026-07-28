@@ -1,7 +1,8 @@
- (\ /)
- ( . .)
- c(")(")
-
+```
+     (\ /)
+     ( . .)
+     c(")(")
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=435&lines=Sysadmin;Debian+%E2%99%A5)](https://git.io/typing-svg)
 
