@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Sysadmin;Debian+%E2%99%A5)](https://git.io/typing-svg)
+ (\ /)
+ ( . .)
+ c(")(")
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=435&lines=Sysadmin;Debian+%E2%99%A5)](https://git.io/typing-svg)
 
 ![Environments](https://github-readme-tech-stack.vercel.app/api/cards?title=Environments&lineCount=1&theme=cyberpunk&bg=%230a0b0e&badge=%23330716&border=%23ff0055&titleColor=%23ff0055&line1=debian%2Cdebian%2Cauto%3Bubuntu%2Cubuntu%2Cauto%3Barchlinux%2Carch%2Cauto%3Balpinelinux%2Calpine%2Cauto%3B)
 
